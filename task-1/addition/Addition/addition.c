@@ -6,6 +6,7 @@ int main(){
     b=2;
     add = a+b;
     printf("%d/n",add);
+
     return 0;
 
 }
