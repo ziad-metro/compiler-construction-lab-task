@@ -1,0 +1,4 @@
+int num = 7;
+int result;
+
+result = (num % 2 == 0) ? 0 : 1;
